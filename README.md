@@ -4,9 +4,9 @@ The code will run several regression and classification models based on features
 
 ##Command Line Options:
 
-'--name' - name of the folder that will be created where images and results will appear (default is 'test')
+* '--name' - name of the folder that will be created where images and results will appear (default is 'test')
 
-'--nRevs' - number of reviews to use
+* '--nRevs' - number of reviews to use
 
 '--nUnigrams'  - maximum number of unigram features (only needed if minDF is not used)
 
